@@ -8,6 +8,10 @@
     ],
     "rewrites": [
       {
+        "source": "/code-of-conduct",
+        "destination": "/code-of-conduct.html"
+      },
+      {
         "source": "**",
         "destination": "/index.html"
       }
